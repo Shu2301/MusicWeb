@@ -4,8 +4,8 @@ const music = new Audio('audio/1.mp3');
 const songs = [
     {
         id: 1,
-        songName: `Just Say Hello<br> 
-        <div class="subtitle">Melo-D</div>`,
+        songName: `Habit<br> 
+        <div class="subtitle">Tove Lo</div>`,
         poster: "assets/img/pic_music/1.jpg"     
     },
     {
